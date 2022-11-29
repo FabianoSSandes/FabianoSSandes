@@ -3,7 +3,7 @@
 [![Skill](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Fabiano-Sandes) 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianossandes/) 
 
-## Tecnologias que eu uso no meu dia 
+## Tecnologias em apreendizado
 
 <div style="display:inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
