@@ -16,7 +16,7 @@
 </div><br/>
 
 
-Buscas aprender sempre
+Buscar aprender sempre
 
 #Certificações:
 - Sistemas Sensores - Laborátório de propulsão Digital 
