@@ -19,6 +19,10 @@
 Buscar aprender sempre
 
 #Certificações:
-- Sistemas Sensores - Laborátório de propulsão Digital 
+- Sistemas Sensores - Laborátório de propulsão Digital
+- Modelagem Hidrológica com o Modelo "Seasonal Water Yield
+- Processamento de Imagens de Satélite por Softwares Livres (PDISL)
+- Processamento de Imagens de Satélite com Python (PDIPY)
+- Visão Computacional e Deep Learning em Imagens de Satélites e Drones
 
 
