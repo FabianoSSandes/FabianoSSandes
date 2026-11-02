@@ -28,6 +28,7 @@ Buscar aprender sempre
 - Captação de dados por LiDAR embarcado em drone - SELPER (2025, 8h)
 
 **Geoprocessamento e sensoriamento remoto**
+- WebGIS - SENAI CIMATEC
 - Técnico em Geoprocessamento - IFSULDEMINAS (2022-2023)
 - Introdução ao Mapeamento 3D com Laser Scanner Terrestre - IFSULDEMINAS (2024, 60h)
 - Processamento de Imagens de Satélite por Softwares Livres (PDISL) - Anhanguera (2023-2024, 53h)
@@ -43,7 +44,6 @@ Buscar aprender sempre
 
 ## Experiência prática
 
-- Desenvolvimento de plataformas WebGIS
 - Tratamento de dados com programação auxiliada por IA
 - Geonode GEOTEC / SENAI CIMATEC - criação de banco de dados (2024-2025)
 - INOVA CIRCULAR - programa de computador registrado no INPI (512026007706-0, 2026)
