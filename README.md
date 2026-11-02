@@ -18,11 +18,32 @@
 
 Buscar aprender sempre
 
-#Certificações:
-- Sistemas Sensores - Laborátório de propulsão Digital
-- Modelagem Hidrológica com o Modelo "Seasonal Water Yield
-- Processamento de Imagens de Satélite por Softwares Livres (PDISL)
-- Processamento de Imagens de Satélite com Python (PDIPY)
-- Visão Computacional e Deep Learning em Imagens de Satélites e Drones
+## Certificações
 
+**Drones e aerolevantamento**
+- Pilotagem de Drone/VANTs - IQUALI (2019 e 2020)
+- Certificação de Aplicação Aeroagrícola Remota (CAAR) - EAAR (2026, 28h)
+- Drones: conceitos, legislação e operação - SENAR (2024, 20h)
+- Geofísica com Drone - Observatório Nacional (2024, 30h)
+- Captação de dados por LiDAR embarcado em drone - SELPER (2025, 8h)
 
+**Geoprocessamento e sensoriamento remoto**
+- Técnico em Geoprocessamento - IFSULDEMINAS (2022-2023)
+- Introdução ao Mapeamento 3D com Laser Scanner Terrestre - IFSULDEMINAS (2024, 60h)
+- Processamento de Imagens de Satélite por Softwares Livres (PDISL) - Anhanguera (2023-2024, 53h)
+- Processamento de Imagens de Satélite com Python (PDIPY) - Laboratório de Propulsão Digital (2023, 45h)
+- Sistemas Sensores - Laboratório de Propulsão Digital (2022, 30h)
+- Modelagem Hidrológica com o Modelo "Seasonal Water Yield"
+
+**Inteligência artificial e dados**
+- Especialização em Inteligência Artificial Aplicada a Geotecnologias - UNIAN (2025-2026, 390h)
+- Visão Computacional e Deep Learning em Imagens de Satélites e Drones - Deep Field Geo (2023, 80h)
+- Big Data e Estatísticas Públicas - ENCE (2024, 45h)
+- Curso de Inteligência Artificial para Geotecnologias - Uniderp (2024, 20h)
+
+## Experiência prática
+
+- Desenvolvimento de plataformas WebGIS
+- Tratamento de dados com programação auxiliada por IA
+- Geonode GEOTEC / SENAI CIMATEC - criação de banco de dados (2024-2025)
+- INOVA CIRCULAR - programa de computador registrado no INPI (512026007706-0, 2026)
