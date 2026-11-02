@@ -3,7 +3,7 @@
 [![Skill](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Fabiano-Sandes) 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianossandes/) 
 
-![FabianoSSandes GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianoSSandes&show_icons=true&bg_color=00000000)
+![FabianoSSandes GitHub stats](./profile/stats.svg)
 
 ## Tecnologias em aprendizado 
 
